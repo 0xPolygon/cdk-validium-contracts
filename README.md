@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This is no longer supported, please consider using https://github.com/0xPolygonHermez/zkevm-contracts/ instead.
+
 # Polygon CDK Validium Contracts
 ### Core Contracts for the Polygon CDK Validium
 
