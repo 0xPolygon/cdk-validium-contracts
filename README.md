@@ -100,6 +100,10 @@ For testing purposes, the following private keys are being used. These keys are 
 - **Private key**: 0xdfd01798f92667dbf91df722434e8fbe96af0211d4d1b82bbbbc8f1def7a814f
 - **Address**: 0xc949254d682d8c9ad5682521675b8f43b102aec4
 
+## Contact
+
+For more discussions, please head to the [R&D Discord](https://discord.gg/0xPolygonRnD)
+
 ## License
 
 The cdk-validium-contracts project is licensed under the [GNU Affero General Public License](LICENSE) free software license.
